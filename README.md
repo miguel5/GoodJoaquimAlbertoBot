@@ -1,0 +1,2 @@
+# GoodJoaquimAlbertoBot
+Python Discord bot
