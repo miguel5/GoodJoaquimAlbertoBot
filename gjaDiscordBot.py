@@ -8,7 +8,7 @@ from discord import Game
 from discord.ext.commands import Bot
 
 BOT_PREFIX = ("?", "!")
-TOKEN = "NDg2OTgyMDQwMTM5NTk1Nzc4.DnHCWw.5KvZa430Hqje3i2z9pwzy0SXcWg"  # Get at discordapp.com/developers/applications/me
+TOKEN = "XXXXXXXX_SECRET_TOKEN_XXXXXXXX"  # Get at discordapp.com/developers/applications/me
 
 client = Bot(command_prefix=BOT_PREFIX)
 
